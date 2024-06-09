@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1578 286.7">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        fill: url(#Enhanced_Cortana_);
+      }
+
+      .cls-7 {
+        fill: #222;
+        font-family: EdrgoRegular, Edrgo;
+        font-size: 249.39px;
+      }
+    </style>
+    <linearGradient id="Enhanced_Cortana_" data-name="Enhanced Cortana " x1="-141.4" y1="206.69" x2="-170.76" y2="-16.61" gradientTransform="translate(307.2 74.08) rotate(10.61)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00adff"/>
+      <stop offset=".53" stop-color="#005cff"/>
+      <stop offset="1" stop-color="#eb63ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient" x1="136.76" y1="170.85" x2="139.5" y2="112.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00adff"/>
+      <stop offset=".53" stop-color="#005cff"/>
+      <stop offset="1" stop-color="#eb63ac"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-3" d="M125.12,226.97c-45.32-8.36-78.69-53.74-69.69-101.8,8.87-47.36,54.46-78.55,101.81-69.69,12.15,2.28,23.07,7.72,24.91,8.7,24.3,13.05,35.36,34.35,39.23,42.91.86,1.62,2.58,4.21,5.43,4.96,3.09.82,6.04-.97,7.99-2.18,9.85-6.13,19.23-13.09,29.56-18.36,1.08-.55,3.51-1.75,4.79-4.34,1.56-3.16.54-6.59.15-7.88-3.15-10.62-26.94-47.27-61.95-62.83h0s0,0,0,0c-6.36-3.23-22.2-10.64-40.18-14.01C90.53-11.92,16.74,38.58,2.38,115.23c-14.66,78.23,40.16,151.31,112.8,164.79,60.4,11.2,123.79-20.53,153.99-79.06.29-1.5.51-3.89-.64-6.2-1.22-2.45-3.38-3.63-4.29-4.13-7.93-4.4-16.58-11.24-32.12-17.81-1.16-.49-3.51-1.45-6.3-.91-1.62.31-2.86,1.02-3.67,1.59-16.98,38.84-57.78,60.72-97.03,53.48Z"/>
+        <circle class="cls-2" cx="138.14" cy="141.22" r="31.85"/>
+      </g>
+      <text class="cls-7" transform="translate(319.6 236.82)"><tspan x="0" y="0">C</tspan><tspan class="cls-4" x="192.28" y="0">O</tspan><tspan class="cls-5" x="380.07" y="0">R</tspan><tspan class="cls-1" x="543.42" y="0">T</tspan><tspan class="cls-6" x="682.07" y="0">AN</tspan><tspan x="1073.36" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
