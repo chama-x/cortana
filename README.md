@@ -1,4 +1,4 @@
-*# Cortana Web App
+# Cortana Web App
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c1ca5aae-466b-4b37-ae53-8cbd100fb4c3/deploy-status)](https://app.netlify.com/sites/cortanadevs/deploys)
 
