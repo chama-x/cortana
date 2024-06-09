@@ -24,10 +24,10 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine:
 
-  ``` git clone https://github.com/your-username/business-website.git ```
+  ``` git clone https://github.com/chama-x/cortana.git ```
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using npm or yarn:
-``` cd business-website ```
+``` cd cortana ```
 ``` npm install ```
 
 3. **Run the Development Server**: Start the development server to preview the application locally:
@@ -38,14 +38,13 @@ To get started with the project, follow these steps:
 
 5. **Deploy to Netlify**: When ready, push your changes to the `main` branch of the repository. Netlify will automatically detect the changes and deploy the updated application to production.
 
-## Usage
-
-Explain how to use your project and any relevant details.
 
 ## Technologies Used
 
-- List the main technologies or frameworks used in your project.
-- Include badges/logos if applicable.
+- Qwik
+- NodeJS
+- Netlify
+- Git
 
 ## Contributing
 
