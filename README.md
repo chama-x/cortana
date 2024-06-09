@@ -16,8 +16,7 @@ This repository contains the source code for our business website application. T
 - **Secure**: Implemented with security best practices to protect user data and ensure the integrity of the application.
 
 ## Demo
-
-Include a GIF or screenshot showcasing your project in action.
+<img width="1680" alt="Screenshot 2024-06-09 at 11 38 33 PM" src="https://github.com/chama-x/cortana/assets/169553642/0d876958-98db-4557-8eb8-bdc93ec34275">
 
 ## Getting Started
 
