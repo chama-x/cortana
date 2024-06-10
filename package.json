@@ -46,6 +46,7 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "dependencies": {
-    "@builder.io/dev-tools": "^1.0.14"
+    "@builder.io/dev-tools": "^1.0.14",
+    "dotenv": "^16.4.5"
   }
 }
