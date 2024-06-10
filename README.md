@@ -1,4 +1,4 @@
-*# Cortana Web App
+# Cortana Web App
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c1ca5aae-466b-4b37-ae53-8cbd100fb4c3/deploy-status)](https://app.netlify.com/sites/cortanadevs/deploys)
 
@@ -16,8 +16,7 @@ This repository contains the source code for our business website application. T
 - **Secure**: Implemented with security best practices to protect user data and ensure the integrity of the application.
 
 ## Demo
-
-Include a GIF or screenshot showcasing your project in action.
+<img width="1680" alt="Screenshot 2024-06-09 at 11 38 33 PM" src="https://github.com/chama-x/cortana/assets/169553642/0d876958-98db-4557-8eb8-bdc93ec34275">
 
 ## Getting Started
 
@@ -25,10 +24,10 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine:
 
-  ``` git clone https://github.com/your-username/business-website.git ```
+  ``` git clone https://github.com/chama-x/cortana.git ```
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using npm or yarn:
-``` cd business-website ```
+``` cd cortana ```
 ``` npm install ```
 
 3. **Run the Development Server**: Start the development server to preview the application locally:
@@ -39,14 +38,13 @@ To get started with the project, follow these steps:
 
 5. **Deploy to Netlify**: When ready, push your changes to the `main` branch of the repository. Netlify will automatically detect the changes and deploy the updated application to production.
 
-## Usage
-
-Explain how to use your project and any relevant details.
 
 ## Technologies Used
 
-- List the main technologies or frameworks used in your project.
-- Include badges/logos if applicable.
+- Qwik
+- NodeJS
+- Netlify
+- Git
 
 ## Contributing
 
