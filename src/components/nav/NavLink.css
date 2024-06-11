@@ -1,0 +1,49 @@
+.nav-section {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 30px;
+  padding: 20px 0;
+}
+@media (max-width: 991px) {
+  .nav-section { 
+    display: flex;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 640px) {
+  .nav-section {
+    display: none;
+  }
+}
+.nav-logo {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  object-position: center;
+  width: 23px;
+  opacity: 0.9;
+}
+.nav {
+  column-gap: 20px;
+  display: flex;
+  gap: 30px;
+  row-gap: 20px;
+}
+.nav-link {
+  text-decoration: none;
+  color: rgba(250, 250, 250, 1);
+  opacity: 0.9;
+  font-family: "ui-sans-serif", sans-serif;
+  cursor: pointer;
+}
+.nav-link:hover {
+  color: #7DF9FF; /* Electric blue color */
+}
+@media (max-width: 991px) {
+  .nav-link {
+    font-family: "ui-sans-serif", sans-serif;
+    font-weight: 300;
+  }
+}
